@@ -1,0 +1,38 @@
+header{
+    text-align: center;
+}
+.navborders {
+    background-color: #6278B0;
+    display:flex;
+    flex-direction: row;
+    border: solid;
+    justify-content: space-evenly;
+    height: 50px;
+    align-items: center;
+    width: 80%;
+}
+nav {
+    display: flex;
+    justify-content: center;
+}
+a {
+    color: white;
+}
+.borders {
+   border: solid;
+}
+.flex {
+    display: flex;
+}
+.center {
+    text-align: center;
+}
+.widthpad {
+    width: 80%;
+    padding-left: 126px;
+}
+
+.hov:hover{
+    background-color: #6278B0;
+    color : white;
+}
